@@ -6,4 +6,4 @@
 # @global-owner1 and @global-owner2 will be reguested for
 # review when someone opens a pull request.
 @alobal-owner1 @alobal-owner2
-
+remote_theme: minima
